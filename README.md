@@ -130,7 +130,7 @@ Have the eye of the owner; being able to change position on the owner's position
    <div>
   <a link="metachess.network">
   <img src="./imgs/metachess.jpg" name="image-name">
-</details>
+
   <h2>Metaverse game</h2>
   </a>
 
