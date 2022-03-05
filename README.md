@@ -86,11 +86,26 @@ Have the eye of the owner; being able to change position on the owner's position
   
   </div>
   <div>
+  <a link="communitygaming.io">
+  <img src="./imgs/communitygaming.io.jpg" name="image-name">
+  <h2>Community gaming</h2>
+  </a>
+  
+  </div>
+  <div>
   <a link="spark44.com">
   <img src=".imgs/../imgs/spark44.com.png" name="image-name">
   <h2>Delivery Site</h2>
   </a>
   
+  </div>
+  <div>
+  <a link="metachess.network">
+  <img src="./imgs/metachess.jpg" name="image-name">
+
+  <h2>Metaverse game</h2>
+  </a>
+
   </div>
    <div>
   <a link="ledgity.com">
@@ -106,13 +121,7 @@ Have the eye of the owner; being able to change position on the owner's position
   </a>
   
   </div>
-   <div>
-  <a link="communitygaming.io">
-  <img src="./imgs/communitygaming.io.jpg" name="image-name">
-  <h2>Community gaming</h2>
-  </a>
-  
-  </div>
+   
  <div>
   <a link="app.nfraction.com">
    <img src="./imgs/app.nfraction(token1).png" name="image-name">
@@ -127,14 +136,7 @@ Have the eye of the owner; being able to change position on the owner's position
   </a>
   
   </div>
-   <div>
-  <a link="metachess.network">
-  <img src="./imgs/metachess.jpg" name="image-name">
-
-  <h2>Metaverse game</h2>
-  </a>
-
-  </div>
+   
   
   
 </details>
