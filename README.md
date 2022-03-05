@@ -77,13 +77,64 @@ Have the eye of the owner; being able to change position on the owner's position
 
 
 
-<details>    
+<details>
+  <div>
+  <a link="fortnite.com">
   <img src="./imgs/Fortnite1.png" name="image-name">
+  <h2>Epic games</h2>
+  </a>
+  
+  </div>
+  <div>
+  <a link="spark44.com">
   <img src=".imgs/../imgs/spark44.com.png" name="image-name">
+  <h2>Delivery Site</h2>
+  </a>
+  
+  </div>
+   <div>
+  <a link="ledgity.com">
   <img src="./imgs/ledgity(blockchain).jpg" name="image-name">
-  <img src="./imgs/dforce.network(blockchain).jpg" name="image-name">
+  <h2>LTY token</h2>
+  </a>
+  
+  </div>
+   <div>
+  <a link="dforce.network.com">
+  <img src="./imgs/dforce.network(blockchain).jpg" name="image-name"> 
+  <h2>USDX token</h2>
+  </a>
+  
+  </div>
+   <div>
+  <a link="communitygaming.io">
   <img src="./imgs/communitygaming.io.jpg" name="image-name">
-  <img src="./imgs/app.nfraction(token1).png" name="image-name">
+  <h2>Community gaming</h2>
+  </a>
+  
+  </div>
+ <div>
+  <a link="app.nfraction.com">
+   <img src="./imgs/app.nfraction(token1).png" name="image-name">
+  <h2>NFTA token</h2>
+  </a>
+ 
+  </div>
+  <div>
+  <a link="aladiex.com">
   <img src="./imgs/aladiex(token1).png" name="image-name">
+  <h2>ALA token</h2>
+  </a>
+  
+  </div>
+   <div>
+  <a link="metachess.network">
   <img src="./imgs/metachess.jpg" name="image-name">
+</details>
+  <h2>Metaverse game</h2>
+  </a>
+
+  </div>
+  
+  
 </details>
