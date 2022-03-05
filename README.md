@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Greeting from a Explosive Expert</h1>
+<h1 align="center">"Programming isn't about what you know; it's about what you can figure out"</h1>
 
 <p align="center">
   <img align="center" src="logo.png" style = "width: 800px;"/>
