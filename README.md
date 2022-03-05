@@ -77,3 +77,13 @@ Have the eye of the owner; being able to change position on the owner's position
 
 
 
+<details>    
+  <img src="./imgs/Fortnite1.png" name="image-name">
+  <img src=".imgs/../imgs/spark44.com.png" name="image-name">
+  <img src="./imgs/ledgity(blockchain).jpg" name="image-name">
+  <img src="./imgs/dforce.network(blockchain).jpg" name="image-name">
+  <img src="./imgs/communitygaming.io.jpg" name="image-name">
+  <img src="./imgs/app.nfraction(token1).png" name="image-name">
+  <img src="./imgs/aladiex(token1).png" name="image-name">
+  <img src="./imgs/metachess.jpg" name="image-name">
+</details>
