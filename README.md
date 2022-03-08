@@ -79,28 +79,28 @@ Have the eye of the owner; being able to change position on the owner's position
 
 <details>
   <div>
-  <a link="fortnite.com">
+  <a href="fortnite.com" target="_blank" rel="noreferrer">
   <img src="./imgs/Fortnite1.png" name="image-name">
   <h2>Epic games</h2>
   </a>
   </div>
   
   <div>
-  <a link="communitygaming.io">
+  <a href="communitygaming.io" target="_blank" rel="noreferrer">
   <img src="./imgs/communitygaming.io.jpg" name="image-name">
   <h2>Community gaming</h2>
   </a>
   </div>
   
   <div>
-  <a link="spark44.com">
+  <a href="spark44.com" target="_blank" rel="noreferrer">
   <img src=".imgs/../imgs/spark44.com.png" name="image-name">
   <h2>Delivery Site</h2>
   </a>
  
   </div>
   <div>
-  <a link="metachess.network">
+  <a href="metachess.network" target="_blank" rel="noreferrer">
   <img src="./imgs/metachess.jpg" name="image-name">
 
   <h2>Metaverse game</h2>
@@ -108,14 +108,14 @@ Have the eye of the owner; being able to change position on the owner's position
 
   </div>
    <div>
-  <a link="ledgity.com">
+  <a href="ledgity.com" target="_blank" rel="noreferrer">
   <img src="./imgs/ledgity(blockchain).jpg" name="image-name">
   <h2>LTY token</h2>
   </a>
   
   </div>
    <div>
-  <a link="dforce.network.com">
+  <a href="dforce.network.com" target="_blank" rel="noreferrer">
   <img src="./imgs/dforce.network(blockchain).jpg" name="image-name"> 
   <h2>USDX token</h2>
   </a>
@@ -123,14 +123,14 @@ Have the eye of the owner; being able to change position on the owner's position
   </div>
    
  <div>
-  <a link="app.nfraction.com">
+  <a href="app.nfraction.com" target="_blank" rel="noreferrer">
    <img src="./imgs/app.nfraction(token1).png" name="image-name">
   <h2>NFTA token</h2>
   </a>
  
   </div>
   <div>
-  <a link="aladiex.com">
+  <a href="aladiex.com" target="_blank" rel="noreferrer">
   <img src="./imgs/aladiex(token1).png" name="image-name">
   <h2>ALA token</h2>
   </a>
