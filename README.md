@@ -1,7 +1,7 @@
 <h1 align="center">"Programming isn't about what you know; it's about what you can figure out"</h1>
 
 <p align="center">
-  <img align="center" src="logo.png" style = "width: 800px;"/>
+  <img align="center" src="./imgs/logo.png" style = "width: 800px;"/>
 </p>
 <h1 align="center"></h1>
 <h1 align="center" style="font-weight: bold">A passionate full stack developer</h1>
