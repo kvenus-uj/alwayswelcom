@@ -78,23 +78,23 @@ Have the eye of the owner; being able to change position on the owner's position
 
 
 <details>
-  <div align="left" height="150px">
+  <div align="left">
   <a link="fortnite.com">
-  <img src="./imgs/Fortnite1.png" name="image-name">
+  <img  height="150px" src="./imgs/Fortnite1.png" name="image-name">
   <h2>Epic games</h2>
   </a>
   </div>
   
   <div align="center" height="150px">
   <a link="communitygaming.io">
-  <img src="./imgs/communitygaming.io.jpg" name="image-name">
+  <img  height="150px" src="./imgs/communitygaming.io.jpg" name="image-name">
   <h2>Community gaming</h2>
   </a>
   </div>
   
-  <div align="right" height="150ox">
+  <div align="right" height="150px">
   <a link="spark44.com">
-  <img src=".imgs/../imgs/spark44.com.png" name="image-name">
+  <img  height="150px" src=".imgs/../imgs/spark44.com.png" name="image-name">
   <h2>Delivery Site</h2>
   </a>
   
