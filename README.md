@@ -41,10 +41,6 @@
 </p>
 <h1 align="center"></h1>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alwayswelcom&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayswelcom&layout=compact&theme=merko&count_private=true&hide=python" />
-<img align="center" height="150px"/>
-
 
 <br/>
 
