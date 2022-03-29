@@ -1,11 +1,10 @@
 <h1 align="center">"Programming isn't about what you know; it's about what you can figure out"</h1>
 
-<p align="center">
-  <img align="center" src="./imgs/logo.png" style = "width: 800px;"/>
-</p>
-<h1 align="center"></h1>
-<h1 align="center" style="font-weight: bold">A passionate full stack developer</h1>
+<!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
+![](./profile-3d-contrib/profile-night-view.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+TOMMY+LINDBLAD.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alwayswelcom.alwayswelcom" /> -->
 <h1 align="center"></h1>
 
 - 🔭 I’m currently free now.
@@ -77,6 +76,30 @@ Have the eye of the owner; being able to change position on the owner's position
 
 
 
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=alwayswelcom&theme=react&border=61dafb&hide_border=true" alt="alwayswelcom" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=alwayswelcom&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayswelcom&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  <br>
+  <br>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alwayswelcom&theme=monokai"/>
+  </div>
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alwayswelcom&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+  
+  <br>
+</p>
 <details>
   <div>
   <a href="https://fortnite.com" target="_blank" rel="noreferrer">
