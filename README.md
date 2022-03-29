@@ -76,13 +76,13 @@ Have the eye of the owner; being able to change position on the owner's position
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=200 src="https://github-readme-streak-stats.herokuapp.com/?user=alwayswelcom&theme=react&border=61dafb&hide_border=true" alt="alwayswelcom" />
+      <img align="left" width=230 src="https://github-readme-streak-stats.herokuapp.com/?user=alwayswelcom&theme=react&border=61dafb&hide_border=true" alt="alwayswelcom" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayswelcom&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img align="center" width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayswelcom&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=200 src="https://github-readme-stats.vercel.app/api?username=alwayswelcom&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=230 src="https://github-readme-stats.vercel.app/api?username=alwayswelcom&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     
   </div>
