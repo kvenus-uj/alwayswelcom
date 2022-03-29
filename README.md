@@ -3,8 +3,8 @@
 <!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+TOMMY+LINDBLAD.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" />
-<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alwayswelcom.alwayswelcom" /> -->
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" /> -->
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alwayswelcom.alwayswelcom" />
 <h1 align="center"></h1>
 
 - 🔭 I’m currently free now.
